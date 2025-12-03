@@ -4,7 +4,7 @@ A simple and interactive web application that automatically generates a day-by-d
 
 ## Features
 - Select a destination from all Indian states and union territories.
-- Choose the number of travel days (1–14).
+- Choose the number of travel days.
 - Automatically generates suggested activities for each day.
 - Dynamic background images change based on destination.
 - Clean UI with background video and glass-effect circular form.
